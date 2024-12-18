@@ -1,0 +1,8 @@
+[first]
+value = 123
+
+[second]
+value = "string"
+
+[third]
+value = true
